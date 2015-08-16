@@ -1,4 +1,6 @@
 learn Git
+
+#1 
 #create an new file in editor / have a file
 
 git add index.php(name of file)
@@ -14,3 +16,10 @@ git config --global user.email "izzudin.github.io" //email with izzudin.github.i
 git log //want to know whether have been commit or not 
 
 git diff //to identify modification
+
+#2
+git remote add origin https://github.com/izzudin/KealsGit.git 
+git push origin master
+
+git checkout -b newbranch
+git checkout master
