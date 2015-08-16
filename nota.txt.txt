@@ -25,10 +25,7 @@ git checkout master
 
 git merge newbranch
 
-
-
-
-
+git branch -r
 
 
 
