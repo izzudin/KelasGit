@@ -1,0 +1,16 @@
+learn Git
+#create an new file in editor / have a file
+
+git add index.php(name of file)
+
+git status //acknowledge the status of git
+
+git commit -m "some comment...." //commit the files in the folder
+
+git config --global user.name "izzudin" //user name with izzudin
+
+git config --global user.email "izzudin.github.io" //email with izzudin.github.io
+
+git log //want to know whether have been commit or not 
+
+git diff //to identify modification
